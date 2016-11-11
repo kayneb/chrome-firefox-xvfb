@@ -1,4 +1,4 @@
-# chrome-firefox-xvfb
+# docker-chrome-firefox-xvfb
 Execute Chrome or Firefox with xvfb
 
 # To use
