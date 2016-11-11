@@ -17,7 +17,7 @@ xvfb=$!
 
 export DISPLAY=:98
 
-google-chrome $@ &
+google-chrome --no-sandbox $@ &
 chrome=$!
 
 wait $chrome
